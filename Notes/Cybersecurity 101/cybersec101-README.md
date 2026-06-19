@@ -1,8 +1,8 @@
-#Cyber Security 101
+# Cyber Security 101
 
-##📚 Completed Modules
+## 📚 Completed Modules
 
-###✅ Linux Fundamentals
+### ✅ Linux Fundamentals
 - Linux File System
 - Basic Commands
 - File Permissions
@@ -10,7 +10,7 @@
 - Package Management
 - Shell Basics
 
-###✅ Windows Fundamentals
+### ✅ Windows Fundamentals
 - Windows Architecture
 - File System
 - User Accounts
@@ -20,9 +20,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-##🚧 Currently Learning
+## 🚧 Currently Learning
 
-###Command Line
+### Command Line
 - Network troubleshooting
 - File and disk management
 - Task and process management
@@ -30,14 +30,14 @@
 - Powershell
 - Locker scripts
 
-###Networking
+### Networking
 - Wireshark Baiscs
 - TCP dump
 - Nmap Basics
 - SSH
 - SMTPS,POP3S,IMAPS
 
-##🎯 Upcoming Topics
+## 🎯 Upcoming Topics
 
 - Web Hacking
 - Security Tools
@@ -49,7 +49,7 @@
 
 ---
 
-##📝 Notes
+## 📝 Notes
 
 The notes in this folder are maintained through a combination of:
 
@@ -61,7 +61,7 @@ Some sections may reference the original TryHackMe rooms for detailed explanatio
 
 ---
 
-##📈 Progress
+## 📈 Progress
 
 | Module | Status |
 |----------|----------|
@@ -73,7 +73,7 @@ Some sections may reference the original TryHackMe rooms for detailed explanatio
 
 ---
 
-##🔗 Platform
+## 🔗 Platform
 
 TryHackMe Profile:
 
