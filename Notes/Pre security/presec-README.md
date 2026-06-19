@@ -1,5 +1,13 @@
-# Pre Security Notes
+# Cybersecurity Notes
 
-These notes were created during the completion of the TryHackMe Pre Security Path.
+My notes are maintained across both handwritten notebooks and Microsoft OneNote.
 
-Some notes were maintained digitally in OneNote, while others were handwritten and later uploaded to this repository.
+OneNote Notes:
+https://tinyurl.com/45y68wft
+
+Topics Covered:
+- Network Fundamentals
+- How The Web Works
+- Linux Fundamentals
+- Windows Fundamentals
+- Security Concepts
