@@ -1,8 +1,10 @@
 # Cybersecurity-Journey-
-
+----------------------------------------------------------------------------------------------------------------------
 Documenting my cybersecurity learning journey through TryHackMe, networking, Linux, web security, and hands-on labs.
 ----------------------------------------------------------------------------------------------------------------------
-
+THM PROFILE:
+https://tryhackme.com/p/OM01
+----------------------------------------------------------------------------------------------------------------------
 Hi, I'm Om.
 
 This repository documents my cybersecurity learning journey through TryHackMe, Linux, networking, web security, and hands-on labs.
