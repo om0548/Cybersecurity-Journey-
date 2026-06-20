@@ -19,6 +19,10 @@ This repository documents my cybersecurity learning journey through TryHackMe, L
 - Cryptography
 - Web Security
 
+## Certificate
+- TryHackMe Security Engineer 0 (completed)
+- TryHackMe Security Engineer 1 (In progress)
+
 ## Platforms
 - TryHackMe
 - OverTheWire (Planned)
