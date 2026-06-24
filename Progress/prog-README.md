@@ -4,10 +4,12 @@
 - Pre Security Path
 - Linux Fundamentals
 - Windows Fundamentals
+- - Command Line
 
 ## In Progress
-- Command Line
 - Networking
+- OverTheWire Bandit 
+- OverTheWire Bandit (NATAS)
 
 ## Planned
 - Web Hacking
