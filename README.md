@@ -13,9 +13,10 @@ This repository documents my cybersecurity learning journey through TryHackMe, L
 - TryHackMe Pre Security Path
 - Linux Fundamentals
 - Windows Fundamentals
+- Command Line
 
 ## Currently Learning
-- Command Line
+- Networking (ADVANCED)
 - Cryptography
 - Web Security
 
@@ -25,7 +26,7 @@ This repository documents my cybersecurity learning journey through TryHackMe, L
 
 ## Platforms
 - TryHackMe
-- OverTheWire (Planned)
+- OverTheWire
 - PortSwigger Web Security Academy (Planned)
 
 ## Goal
