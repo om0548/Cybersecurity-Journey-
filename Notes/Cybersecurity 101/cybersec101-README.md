@@ -18,6 +18,11 @@
 - System Configuration
 - Security Features
 
+### ✅ Command Line
+- Windows Command line
+- Windows Powershell
+- Linux Shell
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 ## 🚧 Currently Learning
