@@ -22,14 +22,6 @@
 
 ## 🚧 Currently Learning
 
-### Command Line
-- Network troubleshooting
-- File and disk management
-- Task and process management
-- Real time system analysis
-- Powershell
-- Locker scripts
-
 ### Networking
 - Wireshark Baiscs
 - TCP dump
@@ -67,9 +59,9 @@ Some sections may reference the original TryHackMe rooms for detailed explanatio
 |----------|----------|
 | Linux Fundamentals | ✅ Completed |
 | Windows Fundamentals | ✅ Completed |
-| Command Line | 🚧 In Progress |
+| Command Line | ✅ Completed |
 | Networking | 🚧 In Progress |
-| Web Hacking | ⏳ Planned |
+| Web Hacking | 🚧 In Progress |
 
 ---
 
