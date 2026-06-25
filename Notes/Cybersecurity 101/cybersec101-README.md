@@ -23,23 +23,32 @@
 - Windows Powershell
 - Linux Shell
 
----------------------------------------------------------------------------------------------------------------------------
-
-## 🚧 Currently Learning
-
-### Networking
+### ✅ Networking
 - Wireshark Baiscs
 - TCP dump
 - Nmap Basics
 - SSH
 - SMTPS,POP3S,IMAPS
 
+---------------------------------------------------------------------------------------------------------------------------
+
+## 🚧 Currently Learning
+
+### Cryptograpghy 
+- Public key cryptography
+- Hashing basic
+- John the Ripper
+
+### OWASP TOP 10
+- IAAA Failure
+- Application Design Flaws
+- Insecure Data handling
+
 ## 🎯 Upcoming Topics
 
 - Web Hacking
 - Security Tools
-- OWASP Top 10
-- Burp Suite Basics
+- Burp Suite
 - SQL Injection
 - Cross-Site Scripting (XSS)
 - PortSwigger Labs
@@ -65,7 +74,8 @@ Some sections may reference the original TryHackMe rooms for detailed explanatio
 | Linux Fundamentals | ✅ Completed |
 | Windows Fundamentals | ✅ Completed |
 | Command Line | ✅ Completed |
-| Networking | 🚧 In Progress |
+| Networking | ✅ Completed |
+| OWASP TOP 10 | 🚧 In Progress |
 | Web Hacking | 🚧 In Progress |
 
 ---
