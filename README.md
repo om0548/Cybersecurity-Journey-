@@ -14,11 +14,14 @@ This repository documents my cybersecurity learning journey through TryHackMe, L
 - Linux Fundamentals
 - Windows Fundamentals
 - Command Line
+- Networking (ADVANCED)
+- Web Security
+- OWASP 10
 
 ## Currently Learning
-- Networking (ADVANCED)
 - Cryptography
-- Web Security
+- Offensive and Defensive security Tools
+- Penetration testing
 
 ## Certificate
 - TryHackMe Security Engineer 0 (completed)
@@ -26,7 +29,7 @@ This repository documents my cybersecurity learning journey through TryHackMe, L
 
 ## Platforms
 - TryHackMe
-- OverTheWire
+- OverTheWire Bandit, Bandit NATAS
 - PortSwigger Web Security Academy (Planned)
 
 ## Goal
