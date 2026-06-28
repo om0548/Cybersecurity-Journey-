@@ -5,16 +5,17 @@
 - Linux Fundamentals
 - Windows Fundamentals
 - Command Line
-- Networking
-
-## In Progress
+- Networking (ADVANCED)
 - OWASP top 10
 - Web Hacking
+
+## In Progress
 - OverTheWire Bandit
 - OverTheWire Bandit (NATAS)
+- Cryptography
 
 ## Planned
-- Cryptography
+- Penetration testing
 - Security Solutions
 - PortSwigger
 
