@@ -8,14 +8,14 @@
 - Networking (ADVANCED)
 - OWASP top 10
 - Web Hacking
+- Cryptography
 
 ## In Progress
 - OverTheWire Bandit
 - OverTheWire Bandit (NATAS)
-- Cryptography
 
 ## Planned
 - Penetration testing
 - Security Solutions
-- PortSwigger
+- PortSwigger Labs
 
