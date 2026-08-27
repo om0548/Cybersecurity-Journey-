@@ -17,17 +17,18 @@ This repository documents my cybersecurity learning journey through TryHackMe, L
 - Networking (ADVANCED)
 - Web Security
 - OWASP 10
+- OSINT
 
 ## Currently Learning
-- Cryptography
-- Offensive and Defensive security Tools
 - Penetration testing
+- SOC 1
 
 ## Certificate
 - TryHackMe Security Engineer 0 (completed)
 - TryHackMe Security Engineer 1 (In progress)
 
 ## Platforms
+- picoCTF
 - TryHackMe
 - OverTheWire Bandit, Bandit NATAS
 - PortSwigger Web Security Academy (Planned)
