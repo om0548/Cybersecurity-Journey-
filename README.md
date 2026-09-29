@@ -30,7 +30,7 @@ This repository documents my cybersecurity learning journey through TryHackMe, L
 ## Platforms
 - picoCTF
 - TryHackMe
-- OverTheWire Bandit, Bandit NATAS
+- OverTheWire Bandit, Bandit NATAS, Bandit Krypton
 - PortSwigger Web Security Academy (Planned)
 
 ## Goal
