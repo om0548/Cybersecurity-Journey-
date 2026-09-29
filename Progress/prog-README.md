@@ -13,9 +13,9 @@
 ## In Progress
 - OverTheWire Bandit
 - OverTheWire Bandit (NATAS)
-
-## Planned
 - Penetration testing
+## Planned
+- Reverse Engineering
 - Security Solutions
 - PortSwigger Labs
 
