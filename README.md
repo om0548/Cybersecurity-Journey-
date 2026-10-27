@@ -21,7 +21,7 @@ This repository documents my cybersecurity learning journey through TryHackMe, L
 
 ## Currently Learning
 - Penetration testing
-- SOC 1
+- Reverse Engineering
 
 ## Certificate
 - TryHackMe Security Engineer 0 (completed)
