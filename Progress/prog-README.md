@@ -14,8 +14,10 @@
 - OverTheWire Bandit
 - OverTheWire Bandit (NATAS)
 - Penetration testing
-## Planned
 - Reverse Engineering
+
+## Planned
+- Web Red Teaming
 - Security Solutions
 - PortSwigger Labs
 
